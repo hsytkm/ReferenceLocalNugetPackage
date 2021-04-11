@@ -1,21 +1,19 @@
 # ReferenceLocalNugetPackage
 
-ƒ[ƒJƒ‹‚ÌNuGetƒpƒbƒP[ƒW‚ðƒvƒƒWƒFƒNƒg‚É’Ç‰Á‚·‚éB
+ãƒ­ãƒ¼ã‚«ãƒ«ã®NuGetãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã«è¿½åŠ ã™ã‚‹ã€‚
 
 
 
-Stackoveflow ‚É‰ˆ‚Á‚Äì‹Æ‚µ‚½‚¾‚¯B
+Stackoveflow ã«æ²¿ã£ã¦ä½œæ¥­ã—ãŸã ã‘ã€‚
 
 [Add a package with a local package file in 'dotnet' - Stackoverflow](https://stackoverflow.com/questions/43400069/add-a-package-with-a-local-package-file-in-dotnet)
 
 
 
-#### Žè‡
+#### æ‰‹é †
 
-  1. `*.nupkg` ‚ð—pˆÓ‚µ‚ÄA‚Ç‚Á‚©ƒ[ƒJƒ‹ƒtƒHƒ‹ƒ_‚É’u‚­
-
-    2. VisualStudio ¨ ƒc[ƒ‹ ¨ ƒIƒvƒVƒ‡ƒ“ ¨ NuGetƒpƒbƒP[ƒWƒ}ƒl[ƒWƒƒ[ ‚©‚çAã‹Lƒ[ƒJƒ‹ƒtƒHƒ‹ƒ_ ‚ð’Ç‰Á‚·‚éB –¼‘O‚Í `local-packages` ‚Æ‚©‚É‚µ‚Æ‚­B
-     ‚±‚Ì‘€ì‚É‚æ‚è `%APPDATA%\NuGet\NuGet.Config` ‚ªXV‚³‚ê‚éB
-    3. NuGetƒpƒbƒP[ƒWƒ}ƒl[ƒWƒƒ‚ðŠJ‚¢‚ÄA‰Eã‚Ì ƒpƒbƒP[ƒWƒ\[ƒX‚ð `local-packages` ‚É‚·‚éB
-     ‚±‚ê‚Åƒ[ƒJƒ‹ƒtƒHƒ‹ƒ_‚É•Û‘¶‚µ‚½ nupkg ‚ª•\Ž¦‚³‚ê‚é‚Í‚¸B
+  1. `*.nupkg` ã‚’ç”¨æ„ã—ã¦ã€ã©ã£ã‹ãƒ­ãƒ¼ã‚«ãƒ«ãƒ•ã‚©ãƒ«ãƒ€ã«ç½®ã
+  2. VisualStudio â†’ ãƒ„ãƒ¼ãƒ« â†’ ã‚ªãƒ—ã‚·ãƒ§ãƒ³ â†’ NuGetãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒžãƒãƒ¼ã‚¸ãƒ£ãƒ¼ ã‹ã‚‰ã€ä¸Šè¨˜ãƒ­ãƒ¼ã‚«ãƒ«ãƒ•ã‚©ãƒ«ãƒ€ ã‚’è¿½åŠ ã™ã‚‹ã€‚ åå‰ã¯ `local-packages` ã¨ã‹ã«ã—ã¨ãã€‚ã“ã®æ“ä½œã«ã‚ˆã‚Š `%APPDATA%\NuGet\NuGet.Config` ãŒæ›´æ–°ã•ã‚Œã‚‹ã€‚
+  3. NuGetãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒžãƒãƒ¼ã‚¸ãƒ£ã‚’é–‹ã„ã¦ã€å³ä¸Šã® ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚½ãƒ¼ã‚¹ã‚’ `local-packages` ã«ã™ã‚‹ã€‚
+     ã“ã‚Œã§ãƒ­ãƒ¼ã‚«ãƒ«ãƒ•ã‚©ãƒ«ãƒ€ã«ä¿å­˜ã—ãŸ nupkg ãŒè¡¨ç¤ºã•ã‚Œã‚‹ã¯ãšã€‚
 
